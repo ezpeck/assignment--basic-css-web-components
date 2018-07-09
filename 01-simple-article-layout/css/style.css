@@ -1,0 +1,38 @@
+
+*{
+	box-sizing: border-box;
+}
+body {
+	background: #FBF9F1;
+}
+div {
+	width: 40%;
+	margin-left: 150px;
+	margin-top: 70px;
+	line-height: 1.8;
+	/*font-weight: 550;*/
+	font-family: Georgia, Palatino, serif;
+}
+
+h1 {
+	font-size: 24px;
+	font-weight: lighter;
+}
+#h1_a {
+	text-decoration: underline;
+	font-weight: lighter;
+}
+#h1_b {
+	background: black;
+	font-family: Geneva, Ubuntu, sans-serif;
+	/*font-family: 'Source Sans Pro', sans-serif;*/
+	color: rgb(255, 255, 255);
+}
+h2 {
+	font-size: 35px;
+	font-weight: lighter;
+}
+.p_bluetxt {
+	color: #77A8D2;
+	/*color: rgb(133, 158, 255);*/
+}
